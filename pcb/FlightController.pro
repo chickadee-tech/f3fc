@@ -1,4 +1,4 @@
-update=Friday, November 06, 2015 'AMt' 12:04:41 AM
+update=Monday, November 23, 2015 'PMt' 02:31:36 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,13 @@ LibName32=/Users/tannewt/kicad/libraries/invensense
 LibName33=/Users/tannewt/kicad/libraries/stm-ldo
 LibName34=/Users/tannewt/kicad/libraries/ti-regu
 LibName35=/Users/tannewt/kicad/libraries/ti-power-mux
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
