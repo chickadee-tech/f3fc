@@ -6,4 +6,5 @@
   (lib (name hirose-df40)(type KiCad)(uri "$(KIPRJMOD)/../../shared/kicad/libraries/public/footprints/hirose-df40.pretty")(options "")(descr ""))
   (lib (name chickadee)(type KiCad)(uri "$(KIPRJMOD)/../../shared/kicad/libraries/private/footprints/chickadee.pretty")(options "")(descr ""))
   (lib (name fci)(type KiCad)(uri "$(KIPRJMOD)/../../shared/kicad/libraries/public/footprints/fci.pretty")(options "")(descr ""))
+  (lib (name murata-resonator)(type KiCad)(uri /Users/tannewt/chickadee-projects/shared/kicad/libraries/public/footprints/murata-resonator.pretty)(options "")(descr ""))
 )

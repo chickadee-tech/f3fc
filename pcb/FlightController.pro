@@ -1,4 +1,4 @@
-update=Monday, November 23, 2015 'PMt' 02:31:36 PM
+update=Wednesday, January 06, 2016 'AMt' 11:42:03 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -60,17 +70,7 @@ LibName28=contrib
 LibName29=valves
 LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
 LibName31=/Users/tannewt/kicad/libraries/stm32
-LibName32=/Users/tannewt/kicad/libraries/invensense
-LibName33=/Users/tannewt/kicad/libraries/stm-ldo
-LibName34=/Users/tannewt/kicad/libraries/ti-regu
-LibName35=/Users/tannewt/kicad/libraries/ti-power-mux
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName32=/Users/tannewt/kicad/libraries/stm-ldo
+LibName33=/Users/tannewt/kicad/libraries/ti-regu
+LibName34=/Users/tannewt/kicad/libraries/ti-power-mux
+LibName35=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/invensense
