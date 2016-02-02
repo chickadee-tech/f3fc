@@ -1,4 +1,4 @@
-update=Wednesday, January 06, 2016 'AMt' 11:42:03 AM
+update=Saturday, January 30, 2016 'AMt' 01:55:59 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,18 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -74,3 +62,15 @@ LibName32=/Users/tannewt/kicad/libraries/stm-ldo
 LibName33=/Users/tannewt/kicad/libraries/ti-regu
 LibName34=/Users/tannewt/kicad/libraries/ti-power-mux
 LibName35=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/invensense
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+[general]
+version=1
