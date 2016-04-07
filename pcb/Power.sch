@@ -347,4 +347,18 @@ Wire Wire Line
 	3350 2750 3550 2750
 Text HLabel 3850 2750 1    60   Input ~ 0
 CURRENT
+$Comp
+L CONN_01X01 P8
+U 1 1 56DE4DD7
+P 5100 4400
+F 0 "P8" H 5100 4500 50  0000 C CNN
+F 1 "CONN_01X01" V 5200 4400 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Small" H 5100 4400 50  0001 C CNN
+F 3 "" H 5100 4400 50  0000 C CNN
+	1    5100 4400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5100 4600 5100 4700
+Connection ~ 5100 4700
 $EndSCHEMATC

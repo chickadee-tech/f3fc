@@ -241,7 +241,7 @@ F 1 "Q_PMOS_GSD" H 9100 2950 50  0000 R CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 8650 3100 50  0001 C CNN
 F 3 "" H 8450 3000 50  0000 C CNN
 	1    8450 3000
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L VDD #PWR046
