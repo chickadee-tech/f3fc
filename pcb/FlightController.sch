@@ -574,7 +574,7 @@ F1 "Power.sch" 60
 F2 "CURRENT" I R 7800 5900 60 
 $EndSheet
 Text Notes 9350 6900 2    118  ~ 0
-Chickadee Tech F3FC v6
+Chickadee Tech F3FC v9
 $Comp
 L VDD #PWR018
 U 1 1 5634058B
