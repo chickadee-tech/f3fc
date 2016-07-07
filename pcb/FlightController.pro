@@ -56,12 +56,9 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
-LibName31=/Users/tannewt/kicad/libraries/stm32
-LibName32=/Users/tannewt/kicad/libraries/stm-ldo
-LibName33=/Users/tannewt/kicad/libraries/ti-regu
-LibName34=/Users/tannewt/kicad/libraries/ti-power-mux
-LibName35=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/invensense
+LibName30=../../kicad-libs/components/polystack
+LibName31=../../kicad-libs/components/stm32
+LibName32=../../kicad-libs/components/invensense
 [general]
 version=1
 [schematic_editor]
