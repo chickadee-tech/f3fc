@@ -573,7 +573,7 @@ F0 "Power" 60
 F1 "Power.sch" 60
 F2 "CURRENT" I R 7800 5900 60 
 $EndSheet
-Text Notes 9350 6900 2    118  ~ 0
+Text Notes 9550 7550 2    118  ~ 0
 Chickadee Tech F3FC v9
 $Comp
 L VDD #PWR018
@@ -1396,4 +1396,6 @@ Text Label 7800 5900 0    60   ~ 0
 CURRENT
 Text Label 2150 4200 2    60   ~ 0
 CURRENT
+Text Notes 7000 7050 0    60   ~ 0
+Copyright 2016 Chickadee Tech LLC, <add attributions here>\n\nThis work is licensed under the Creative Commons Attribution 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC
